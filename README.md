@@ -1,1 +1,1 @@
-# Simple Calculator
+# Rock Paper Scissor Game
